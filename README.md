@@ -2,9 +2,9 @@
 
 A simple Flutter project for controll people access in a Restaurant.
 <p align="center">
-<img src="./images/app_0.png" />
-<img src="./images/app_1.png" />
-<img src="./images/app_2.png" />
+<img src="./images/app_0.jpg" />
+<img src="./images/app_1.jpg" />
+<img src="./images/app_2.jpg" />
 </p>
 
 ## Getting Started
