@@ -1,4 +1,4 @@
-# peoplecount
+# PeopleCount
 
 A simple Flutter project for controll people access in a Restaurant.
 <p align="center">
